@@ -94,13 +94,13 @@ Any.do task list is also great for shopping at the grocery store. Right there on
      - Reproducible Steps : <br>
     1.Long Click on the lock screen to talk to siri <br>
     2.Ask her to "add "Gifts" to the lists in this app"<br>
-    3. Siri won't be able to add the list in do.any<br>
+    3. Siri won't be able to add the list in Any.do<br>
     4. Change command to " add "Gifts"to my lists" <br>
     5. Siri will add list Gifts to your reminders on your phone, but the list won't appear in the app.
     - Attachements : <br>
-    <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
-    <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
-    <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Bug.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Bug3.jpeg" alt="Alt text" width="500" height="500"> <br>
+   
     - Affected Devices : Iphone <br>
     - Network : 4G and Wifi <br>
     - Severity : 3 out of 5 (5 being the highest and 1 being the lowest) <br>
