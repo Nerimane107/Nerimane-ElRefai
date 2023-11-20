@@ -66,16 +66,49 @@ Any.do task list is also great for shopping at the grocery store. Right there on
   # Second Part: Bug Reporting
 
   ## Bugs found :
-  Title,ReproducibleSteps,Attachments,AffectedDevices,Network,Severity,Priority,Impact
+  Title : title of the bug <br>
+  Reproducible Steps : steps needed to reproduce the bug <br>
+  Attachments : pictures of the bug <br> 
+  Affected Devices : the devices or platforms where the bug has been observed or is expected to occur. <br>
+  Network: Indicates the types of networks where the issue occurs (Wi-Fi, cellular data, etc.). <br>
+  Severity: Represents the degree of impact or seriousness of the bug. <br>
+  Priority: Indicates the urgency or importance of fixing the bug.<br>
+  Impact: Describes how the bug affects user experience or functionality.<br>
 
   * Bug 1: <br>
-     Title : <br>
-     Reproducible Steps : <br>
+     - Title :Repeated Feature<br>
+     - Reproducible Steps : <br>
     1.Click on any list of your choice <br>
-    2.Click on the three little dots at the top right of the screen. <br>
-    3. You will see 2 imports that lead to the same thing. <br>
-    Attachements : <br>
-    ![Alt text](path/to/your/image.jpg "Optional Title")
+    2.Click on the three little dots at the top right of the screen <br>
+    3.You will see 2 "import" labels that do the same funtionality<br>
+    - Attachements : <br>
+    <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
+    - Affected Devices : Iphone <br>
+    - Network : 4G and Wifi <br>
+    - Severity : 3 out of 5 (5 being the highest and 1 being the lowest) <br>
+    - Priority : 2 out of 5 (5 being the highest and 1 being the lowest) <br>
+    - Impact : 1 out of 5 (5 being the highest and 1 being the lowest) <br>
+
+   * Bug 2 : <br>
+     - Title :Same purpose different name<br>
+     - Reproducible Steps : <br>
+    1.Click on any list of your choice <br>
+    2.Click on the three little dots at the top right of the screen <br>
+    3.Click on settings <br>
+    4.If you click on "Speech" or "Language" you will be guided to the same list of languages
+    - Attachements : <br>
+    <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
+    - Affected Devices : Iphone <br>
+    - Network : 4G and Wifi <br>
+    - Severity : 3 out of 5 (5 being the highest and 1 being the lowest) <br>
+    - Priority : 2 out of 5 (5 being the highest and 1 being the lowest) <br>
+    - Impact : 1 out of 5 (5 being the highest and 1 being the lowest) <br>
+    
+    
+
 
     
     
