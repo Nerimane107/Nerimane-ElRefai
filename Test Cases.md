@@ -75,6 +75,8 @@ Any.do task list is also great for shopping at the grocery store. Right there on
     2.Click on the three little dots at the top right of the screen. <br>
     3. You will see 2 imports that lead to the same thing. <br>
     Attachements : <br>
+    ![Alt text](path/to/your/image.jpg "Optional Title")
+
     
     
 
