@@ -89,15 +89,15 @@ Any.do task list is also great for shopping at the grocery store. Right there on
     - Priority : 2 out of 5 (5 being the highest and 1 being the lowest) <br>
     - Impact : 1 out of 5 (5 being the highest and 1 being the lowest) <br>
 
-   * Bug 2 : <br>
-     - Title :Same purpose different name<br>
+    *Bug 2 :<br>
+     - Title : Voice command not working<br>
      - Reproducible Steps : <br>
-    1.Click on any list of your choice <br>
-    2.Click on the three little dots at the top right of the screen <br>
-    3.Click on settings <br>
-    4.If you click on "Speech" or "Language" you will be guided to the same list of languages
+    1.Long Click on the lock screen to talk to siri <br>
+    2.Ask her to "add "Gifts" to the lists in this app"<br>
+    3. Siri won't be able to add the list in do.any<br>
+    4. Change command to " add "Gifts"to my lists" <br>
+    5. Siri will add list Gifts to your reminders on your phone, but the list won't appear in the app.
     - Attachements : <br>
-    <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
     <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
     <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
     <img src="images/Bug1.jpeg" alt="Alt text" width="500" height="500"> <br>
@@ -106,6 +106,8 @@ Any.do task list is also great for shopping at the grocery store. Right there on
     - Severity : 3 out of 5 (5 being the highest and 1 being the lowest) <br>
     - Priority : 2 out of 5 (5 being the highest and 1 being the lowest) <br>
     - Impact : 1 out of 5 (5 being the highest and 1 being the lowest) <br>
+    
+    
     
     
 
