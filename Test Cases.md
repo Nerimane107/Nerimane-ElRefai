@@ -52,16 +52,32 @@ Any.do task list is also great for shopping at the grocery store. Right there on
 # First Part: Test Design
 ## Testing Scenarios :
 
-* When setting up a reminder for a scheduled time, You will receive a notification at the specified time titeled with the name of the reminder and the time.
-* When trying to set up a reminder for a time in the past (It is 12:15 pm and you want to set a reminder for today at 11:30 am), The application won't allow it.
-* When you share your to do list with your team, You can all see the updates and edits added to the list.
-* Verify that you can use voice commands to add tasks and reminders to your to-list using siri.
-* Verify that you can easily add attachements and files to your tasks.
-*  Mark a task as completed and shake your device. The completed task should be removed from your to do list.
-*  Set up a task in your to do list for Today. If you drag and drop it to to tomorrow's list it should be moved.
-*  When you swipe , or click on the checkbox next to the task, it is marked as complete.
-*  You can tag a task as a priority and it will be at the top of the list.
-*  You can filter the tasks in a list using tags like "Priority". You should only see the tagged tasks in your list.
+* When setting up a reminder for a scheduled time, You will receive a notification at the specified time titeled with the name of the reminder and the time : **Priority num 1**
+* When trying to set up a reminder for a time in the past (It is 12:15 pm and you want to set a reminder for today at 11:30 am), The application won't allow it. **Priority num 2**
+* When you share your to do list or grocery list with your team, You can all see the updates and edits added to the list. You can also edit yourself. **Priority num 6**
+* Verify that you can use voice commands to add tasks and reminders to your to-list using siri. **Priority num 10**
+* Verify that you can easily add attachements and files to your tasks. **Priority num 9**
+*  Mark a task as completed and shake your device. The completed task should be removed from your to do list. **Priority num 5**
+*  Set up a task in your to do list for Today. If you drag and drop it to to tomorrow's list it should be moved. **Priority num 8**
+*  When you swipe , or click on the checkbox next to the task, it is marked as complete. **Priority num 3**
+*  You can tag a task as a priority and it will be at the top of the list. **Priority num 4**
+*  You can filter the tasks in a list using tags like "Priority". You should only see the tagged tasks in your list. **Priority num 7**
+
+  # Second Part: Bug Reporting
+
+  ## Bugs found :
+  Title,ReproducibleSteps,Attachments,AffectedDevices,Network,Severity,Priority,Impact
+
+  * Bug 1: <br>
+     Title : <br>
+     Reproducible Steps : <br>
+    1.Click on any list of your choice <br>
+    2.Click on the three little dots at the top right of the screen. <br>
+    3. You will see 2 imports that lead to the same thing. <br>
+    Attachements : <br>
+    
+    
+
 
 
 
