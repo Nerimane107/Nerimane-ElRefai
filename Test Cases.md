@@ -117,15 +117,18 @@ Any.do task list is also great for shopping at the grocery store. Right there on
     3.Click on "Setting"<br>
     4.Click on "Integrations" then "WhatsApp" and add your phone number and write the code sent to you by SMS. You will receive a whatsApp message from Any.do<br>
     5.According to the app support , you can easily create a task by sending a direct message to Any.do or forward a message to Any.do from any of your contacts. <br>
+    6.The task will be added to the default list which is the Personal in my case , even though I specified I want it in the Work list <br>
     - Attachements : <br>
-    <img src="images/Bug.jpeg" alt="Alt text" width="500" height="500"> <br>
-    <img src="images/Bug3.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/WhatsApp.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Work.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Personal.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Support.jpeg" alt="Alt text" width="500" height="500"> <br>
    
     - Affected Devices : Iphone <br>
-    - Network : 4G and Wifi <br>
+    - Network : Wifi <br>
     - Severity : 3 out of 5 (5 being the highest and 1 being the lowest) <br>
-    - Priority : 2 out of 5 (5 being the highest and 1 being the lowest) <br>
-    - Impact : 1 out of 5 (5 being the highest and 1 being the lowest) <br>
+    - Priority : 4 out of 5 (5 being the highest and 1 being the lowest) <br>
+    - Impact : 3 out of 5 (5 being the highest and 1 being the lowest) <br>
 
     
     
