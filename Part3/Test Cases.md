@@ -25,5 +25,5 @@
 * I should see a message explaining that this user is locked out.
 
 ### Validate performance glitch :
-* I enter ysername "performance_glitch_user" and password "secret_sauce" and press Login.
+* I enter username "performance_glitch_user" and password "secret_sauce" and press Login.
 * I should be able to see the user products page but after a long time.
