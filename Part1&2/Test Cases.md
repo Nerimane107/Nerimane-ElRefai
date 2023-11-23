@@ -100,7 +100,7 @@ Any.do task list is also great for shopping at the grocery store. Right there on
     5.According to the app support , you can easily create a task by sending a direct message to Any.do or forward a message to Any.do from any of your contacts. <br>
     6.The task will be added to the default list which is the Personal in my case , even though I specified I want it in the Work list <br>
     - Attachements : <br>
-    <img src="images/WhatsApp.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Any.jpeg" alt="Alt text" width="500" height="500"> <br>
     <img src="images/Work.jpeg" alt="Alt text" width="500" height="500"> <br>
     <img src="images/Personal.jpeg" alt="Alt text" width="500" height="500"> <br>
     <img src="images/Support.jpeg" alt="Alt text" width="500" height="500"> <br>
