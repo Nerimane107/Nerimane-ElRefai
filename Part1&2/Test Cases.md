@@ -111,6 +111,31 @@ Any.do task list is also great for shopping at the grocery store. Right there on
     - Priority : 4 out of 5 (5 being the highest and 1 being the lowest) <br>
     - Impact : 3 out of 5 (5 being the highest and 1 being the lowest) <br>
 
+       * Bug 3 :<br>
+    
+    - Title : Search for tasks <br>
+    - Reproducible Steps : <br>
+    1.Create in any list tasks "Gifts", "Gift", and "Get gifts"<br>
+    2.Mark all other tasks that we previously created containing the word gifts as completed.<br>
+    3.go to settings -> Completed Tasks and delete all completed tasks<br>
+    4.Search for Gift
+    5. Even though you should receive all tasks " Gifts","Gift" and "Get gifts", You only see "Gift", i.e the singular even though all of them contain the substring gift.<br>
+    6.Now search for Gifts, you will see everything even the ones you completed and deleted <br>
+    - Attachements : <br>
+    <img src="images/WhatsApp.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Work.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Personal.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/Support.jpeg" alt="Alt text" width="500" height="500"> <br>
+   
+    - Affected Devices : Iphone <br>
+    - Network : Wifi <br>
+    - Severity : 3 out of 5 (5 being the highest and 1 being the lowest) <br>
+    - Priority : 4 out of 5 (5 being the highest and 1 being the lowest) <br>
+    - Impact : 3 out of 5 (5 being the highest and 1 being the lowest) <br>
+
+
+    
+
     
     
     
