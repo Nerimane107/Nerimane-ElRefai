@@ -123,8 +123,8 @@ Any.do task list is also great for shopping at the grocery store. Right there on
     6.Now search for Gifts, you will see everything even the ones you completed and deleted <br>
     - Attachements : <br>
     <img src="images/1.jpeg" alt="Alt text" width="500" height="500"> <br>
-    <img src="images/2.jpeg" alt="Alt text" width="500" height="500"> <br>
-    <img src="images/3.jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/2..jpeg" alt="Alt text" width="500" height="500"> <br>
+    <img src="images/3..jpeg" alt="Alt text" width="500" height="500"> <br>
     - Affected Devices : Iphone <br>
     - Network : Wifi <br>
     - Severity : 4 out of 5 (5 being the highest and 1 being the lowest) <br>
